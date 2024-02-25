@@ -1,4 +1,4 @@
-module dev01
+module ntp
 
 go 1.21.4
 
